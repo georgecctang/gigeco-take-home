@@ -8,11 +8,11 @@ function Login({setPath}) {
       <form data-ms-form="login">
         <div className="form-group">
           <label htmlFor="email">Email Address</label>
-          <input data-ms-member="email" type="email" id="email" placeholder="email@address.com" name="email" required />
+          <input data-ms-member="email" type="email" id="email" placeholder="Enter Email Address" name="email" required />
         </div>
         <div className="form-group">
           <label htmlFor="password">Password</label>
-          <input data-ms-member="password" type="password" minlength="8" placeholder="Create Password" required />
+          <input data-ms-member="password" type="password" minlength="8" placeholder="Enter Password" required />
         </div>
         <button type="submit">Enter</button>
       </form>
