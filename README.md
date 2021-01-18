@@ -8,3 +8,8 @@ First time users can sign up for an account with their email address. The passwo
 !["Sign Up"](./docs/signup.png)
 After signing up, users will be directed to the a sample homepage. User can logout by clicking on "Logout" link.
 !["Home Page"](./docs/home.png)
+
+## Getting started
+- Download project folder.
+- Install all dependencies by running `npm install` in the terminal.
+- Start server by running `npm start` in the terminal. 
